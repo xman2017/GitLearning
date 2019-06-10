@@ -2,4 +2,4 @@ git is a free version control system
 git is a wonderful distributed vesion control system
 git is free software distribute under GPL
 this is a manual infomation
-i changed readme.txt in xman 
+i changed readme.txt in xman again
